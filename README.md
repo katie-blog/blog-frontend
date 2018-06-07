@@ -12,7 +12,7 @@ $ npm install dva-cli -g
 ## Check dva version
 $ dva -v
 
-## Intall dependencies
+## Install dependencies
 npm install
 
 ## Start Server
