@@ -9,9 +9,7 @@ git clone xxx
 ```
 3. enter repository and install dependency with yarn
 ```
-cd blog-frontend
-
-yarn
+cd blog-frontend && yarn
 
 ```
 4. Start server
